@@ -170,8 +170,6 @@ function requestNotificationsPermissions() {
       console.error("Unable to get permission to notify.", error)
     );
 }
-// Device Token
-// cxvF4PbLiYg:APA91bHHdIMlhRDBCwfZIhxAqZmGOu8ugLl2ExW4WlUEyWIs6Lt7s7tF0Y0K9_rMa854lIk2wyyEsGCKM5aDjXIgv-BgoVdlSQ0yuaR7Ke1syEmlJaFSTVhIOQs8eO2osj6g1Nxvg1Kl
 
 // Triggered when a file is selected via the media picker.
 function onMediaFileSelected(event) {
